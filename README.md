@@ -9,7 +9,7 @@ We propose a new dynamic multi-graph fusion module to characterize the correlati
 
 ## Datasets
 ### Histocical Records
-- [Air Quality](https://english.mee.gov.cn/)The Ministry of Ecology and Environment of China (MEE) published a large-scale air quality dataset, comprising 92 air quality monitoring stations, to assess the hourly PM2.5 concentration in Jiangsu province in 2020.
+- [Air Quality](https://english.mee.gov.cn/) The Ministry of Ecology and Environment of China (MEE) published a large-scale air quality dataset, comprising 92 air quality monitoring stations, to assess the hourly PM2.5 concentration in Jiangsu province in 2020.
 
 ### Weight Matrix
 There are five weight matrices:
