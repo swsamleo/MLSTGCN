@@ -1,0 +1,10 @@
+torch==1.8.1
+numpy==1.21.1
+scipy==1.2.1
+torch-cluster==1.5.9
+torch-geometric==1.7.2
+torch-scatter==2.0.6
+torch-sparse==0.6.9
+torch-spline-conv==1.2.1
+pytorch-lightning==1.2.8
+wandb==0.11.1
