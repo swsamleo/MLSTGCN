@@ -72,10 +72,12 @@ python train.py
 Please refer to our paper. Wei Shao*, Zhiling Jin*, Shuo Wang, et al, Flora Salim, Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention. [Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention](https://arxiv.org/abs/2204.11008?msclkid=3c019a95d0d611ec98d3ad7108897858). In Proceedings of the 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 2022), 2022.
 
 ```
-@article{shao2022longterm,
-  title={Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention},
+@inproceedings{shao2022long,
+  title={Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention},
   author={Shao, Wei and Jin, Zhiling and Wang, Shuo and Kang, Yufan and Xiao, Xiao and Menouar, Hamid and Zhang, Zhaofeng and Zhang, Junshan and Salim, Flora},
-  journal={arXiv preprint arXiv:2204.11008},
-  year={2022}
+  booktitle={31st International Joint Conference on Artificial Intelligence, IJCAI 2022},
+  pages={2225--2232},
+  year={2022},
+  organization={International Joint Conferences on Artificial Intelligence}
 }
 ```
